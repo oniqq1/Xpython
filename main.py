@@ -1,16 +1,6 @@
-# This is a sample Python script.
+import Scripts
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+# all functions will be in file "Scripts.py" , start script "main.py"
 
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://wwуw.jetbrains.com/help/pycharm/
+    Scripts.start_window()

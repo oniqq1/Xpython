@@ -1,0 +1,5 @@
+up 22000
+do 12600
+nz 5000
+doKategories coffee 4600 food 6000 other 2000
+upKategories salary 20000 gifts 2000
