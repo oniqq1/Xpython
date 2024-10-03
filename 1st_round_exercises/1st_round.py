@@ -17,6 +17,9 @@
 # 1 foot = 0,3 yard
 # 1 foot = 0,000189393939 mile
 
+
+
+# calculate count foots in another kind measurement
 def calcualateFoots(foots, CI):
 
     if CI not in values.keys():
@@ -27,13 +30,15 @@ def calcualateFoots(foots, CI):
 
     return print(f'{foots} foots = {values.get(CI) * foots} {CI}  \n \n')
 
-
+# little database with kinds measurements
 values = {
     "inch": 12,
     "yard": 0.3,
     "mile": 0.000189393939
 }
 
+
+# main logic of calculate
 while True:
 
     while True:
@@ -41,7 +46,7 @@ while True:
             foots = int(input('Count foots > '))
             break
         except ValueError:
-            print("Input number , not str")
+            print("Input number , not str\n")
 
     CI = input('inch , yard or mile ( "q" for quit ) > ')
     if CI == 'q': break

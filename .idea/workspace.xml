@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f8fa71b-ba94-4762-a21b-640abcb63c89" name="Changes" comment="Create empty git">
-      <change afterPath="$PROJECT_DIR$/1st_round_exercises/1st_round.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1st_round_exercises/README_1round.md" afterDir="false" />
+    <list default="true" id="2f8fa71b-ba94-4762-a21b-640abcb63c89" name="Changes" comment="In 1 round , 2 exercise done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +33,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.1st_round.executor": "Run"
+    "Python.1st_round.executor": "Run",
+    "last_opened_file_path": "D:/PyCharm Community Edition 2024.1/projects/Cinema_bot"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -68,11 +66,20 @@
       <option name="project" value="LOCAL" />
       <updated>1727617743156</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="In 1 round , 2 exercise done">
+      <option name="closed" value="true" />
+      <created>1727698315229</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727698315229</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create empty git" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create empty git" />
+    <MESSAGE value="In 1 round , 2 exercise done" />
+    <option name="LAST_COMMIT_MESSAGE" value="In 1 round , 2 exercise done" />
   </component>
 </project>
