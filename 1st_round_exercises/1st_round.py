@@ -41,7 +41,7 @@ washing_machines = {
 }
 
 
-def working(sysInfo: list[int], mode: str):
+def turn_on(sysInfo: list[int], mode: str):
     global time_working
     time_working += sysInfo[2]
 
@@ -68,7 +68,7 @@ while True:
         break
 
     if user_input in work_mode:
-        working(work_mode.get(user_input), user_input)
+        turn_on(work_mode.get(user_input), user_input)
     else:
         print('Not mode \n \n')
 
