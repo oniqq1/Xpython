@@ -76,6 +76,7 @@ def find_exit(labyrinth:list[list[str]] , start_pos : list[int], end_pos : list[
             way.append([end_pos[0], end_pos[1]])
             pos -= 1
 
+
     for position in way:
         labyrinth[position[0]][position[1]] = '$'
     return labyrinth

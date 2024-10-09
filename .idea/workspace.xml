@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f8fa71b-ba94-4762-a21b-640abcb63c89" name="Changes" comment="all done">
-      <change afterPath="$PROJECT_DIR$/2nd_round_exercises/2nd_round.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2f8fa71b-ba94-4762-a21b-640abcb63c89" name="Changes" comment="all done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,13 +29,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.1st_round.executor": "Run",
-    "Python.2nd_round.executor": "Run",
-    "last_opened_file_path": "D:/PyCharm Community Edition 2024.1/projects/xPython"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1st_round.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2nd_round.executor&quot;: &quot;Run&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PyCharm Community Edition 2024.1/projects/xPython&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\PyCharm Community Edition 2024.1\projects\xPython\1st_round_exercises" />
@@ -108,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728053700598</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="all done">
+      <option name="closed" value="true" />
+      <created>1728494623426</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728494623426</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
