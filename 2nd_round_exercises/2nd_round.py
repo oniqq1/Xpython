@@ -1,21 +1,21 @@
-# def temperature_degree(temp: float | int) -> str:
-#     if temp <= 0:
-#         return "A cold, isn't it?\n"
-#     elif 0 < temp < 10:
-#         return "Cool\n"
-#     else:
-#         return "Nice weather we're having\n"
-#
-#
-# while True:
-#     user_input = input('Введіть температуру (число)\n("q" for quit)\n > ')
-#     if user_input == 'q':
-#         break
-#
-#     try:
-#         print(temperature_degree(float(user_input)))
-#     except ValueError:
-#         print('Введино текст , введіть число або "q" для виходу \n\n')
+def temperature_degree(temp: float | int) -> str:
+    if temp <= 0:
+        return "A cold, isn't it?\n"
+    elif 0 < temp < 10:
+        return "Cool\n"
+    else:
+        return "Nice weather we're having\n"
+
+
+while True:
+    user_input = input('Введіть температуру (число)\n("q" for quit)\n > ')
+    if user_input == 'q':
+        break
+
+    try:
+        print(temperature_degree(float(user_input)))
+    except ValueError:
+        print('Введино текст , введіть число або "q" для виходу \n\n')
 
 
 labyrinth = [['▇','█','█',' ','█'],
